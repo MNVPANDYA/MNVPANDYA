@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MNVPANDYA
-- 👀 I’m interested in projects based discerete mathematical models
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in projects based on software engineering
+- 🌱 I’m currently learning scalable database integration.
 - 📫 How to reach me
    email: manavpandya312002@gmail.com
    facebook: https://www.facebook.com/profile.php?id=100008240358336
