@@ -4,6 +4,7 @@
 - 📫 How to reach me
    email: manavpandya312002@gmail.com
    facebook: https://www.facebook.com/profile.php?id=100008240358336
+   linkedin: mnvpandya
 
 <!---
 MNVPANDYA/MNVPANDYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
